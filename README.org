@@ -2,8 +2,8 @@
 
 WebSocket server/client implementation for Common Lisp
 
-|---------+-------------------------------------------------------|
-| source  | git:https://github.com/fukamachi/websocket-driver.git |
-| commit  | 037ab67                                               |
-| systems | websocket-driver                                      |
-|---------+-------------------------------------------------------|
+|---------+------------------------------------------------------------------|
+| source  | git:https://github.com/fukamachi/websocket-driver.git            |
+| commit  | 037ab67                                                          |
+| systems | websocket-driver websocket-driver-client websocket-driver-server |
+|---------+------------------------------------------------------------------|
